@@ -63,7 +63,7 @@ const Footer = () => {
 
         {/* Footer Bottom Text */}
         <div className="mt-10 lg:pt-[20px] text-sm text-gray-600 pl-[50px] border-t border-gray-300">
-          <p className="pt-4">© 2022 Asia Parveen. All rights reserved.</p>
+          <p className="pt-4">© 2022 Umair Dilshad. All rights reserved.</p>
         </div>
       </div>
     </>

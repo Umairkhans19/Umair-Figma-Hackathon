@@ -10,7 +10,7 @@ const Blog = () => {
       title: 'Going all-in with millennial design',
       description: 'A brief description of the blog post.',
       link: '#',
-      extraImage: '/images/date.png', // Extra image added for this blog
+      extraImage: '/images/date.png', 
     },
     {
       id: 2,
@@ -18,7 +18,7 @@ const Blog = () => {
       title: 'Exploring modern tea cultures',
       description: 'Learn about how tea culture evolves globally.',
       link: '#',
-      extraImage: '/images/date.png', // Extra image added for this blog
+      extraImage: '/images/date.png', 
     },
     {
       id: 3,
@@ -26,7 +26,7 @@ const Blog = () => {
       title: 'Sustainable packaging trends',
       description: 'How brands are making their packaging eco-friendly.',
       link: '#',
-      extraImage: '/images/date.png', // Extra image added for this blog
+      extraImage: '/images/date.png', 
     },
   ];
 

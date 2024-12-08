@@ -3,7 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { IoIosTime } from "react-icons/io";
 import { IoLocationSharp } from "react-icons/io5";
-import { FaPhone } from "react-icons/fa"; // Correct imports for used icons
+import { FaPhone } from "react-icons/fa"; 
 import ShopSlider from "../components/ShopSlider";
 
 const ContactPage = () => {
